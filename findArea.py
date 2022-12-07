@@ -1,2 +1,3 @@
-def findArea(b,h):
-     return (1/2*b*h)
+def findArea(a):
+     p=3.14
+     return (p* r*r /2)
