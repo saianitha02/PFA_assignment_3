@@ -4,5 +4,5 @@ setup(name='Package',
       description='Python functions',
       author='SaiAnitha',
       author_email='h20220847 @pilani.bits-pilani.ac.in',
-      packages=['package'],
+      packages=['saianitha'],
      )
