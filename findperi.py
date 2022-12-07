@@ -1,2 +1,3 @@
-def findperi(a,b,c):
-      return ((a+b+c)/3)
+def findperi(a):
+      p=3.14
+      return (p*r)
